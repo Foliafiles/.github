@@ -7,13 +7,13 @@
 <p align="center">
 <a href="https://foliafiles.com/?ref=github">Website</a> ·
 <a href="https://foliafiles.com/en/download/?ref=github">7-day free trial</a> ·
-<a href="https://foliafiles.com/en/film/?ref=github">The film (1:05)</a> ·
+<a href="https://foliafiles.com/en/film/?ref=github">The film (1:24)</a> ·
 <a href="https://www.youtube.com/@foliafiles">YouTube</a> ·
 <a href="https://foliafiles.com/en/press/?ref=github">Press kit</a>
 </p>
 
 ---
 
-**[folia-files](https://github.com/Foliafiles/folia-files)** is where you can report a bug, ask for a feature or share a theme. The app itself is closed source.
+**[folia-files](https://github.com/Foliafiles/folia-files)** is where you can suggest and vote on ideas, ask questions and follow announcements in [Discussions](https://github.com/Foliafiles/folia-files/discussions), report a bug or share a theme. The app itself is closed source.
 
 Made by [Wonderlink SL](https://foliafiles.com/en/about/?ref=github), Spain · support@foliafiles.com
